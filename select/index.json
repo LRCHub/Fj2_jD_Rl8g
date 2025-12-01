@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "The End of the F***ing World - ブランデー戦記 Covered by 理芽 / RIM",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-01T12:02:22.457129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The End of the F***ing World",
+      "artist": "Kartky",
+      "has_synced": true,
+      "path": "select/01_The_End_of_the_F_ing_World_Kartky.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The End of the F***ing World",
+      "artist": "Brandy Senki",
+      "has_synced": false,
+      "path": "select/02_The_End_of_the_F_ing_World_Brandy_Senki.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walking All Day (From \"The End Of The F***ing World\")",
+      "artist": "Geek Music",
+      "has_synced": false,
+      "path": "select/03_Walking_All_Day_(From__The_End_Of_The_F_ing_World_)_Geek_Music.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The End of the F***ing World",
+      "artist": "ブランデー戦記",
+      "has_synced": false,
+      "path": "select/pl_01_The_End_of_the_F_ing_World_ブランデー戦記.txt"
+    }
+  ]
+}
